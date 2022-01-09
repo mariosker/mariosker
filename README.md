@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+My name is Marios Kerasiotis and I am a electrical and computer engineering student. Currently I live in Athens, Greece.
+<br/><br/>
 
-<!--
-**mariosker/mariosker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<b>🌱 Interests:</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning about a software engineering, system design and devOps. Also I interest myself with distributed systems, blockchain and neural networks
+ 
+<b>📫 How to reach me:</b>
+
+You can reach me in these platforms:
+
+Or by email:
+

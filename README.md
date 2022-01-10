@@ -7,14 +7,12 @@
 I’m currently learning about a software engineering, system design and devOps. Also I interest myself with distributed systems, blockchain and neural networks
  
 <b>📫 How to reach me:</b><br/>
-[<img align="left" alt="Marios Kerasiotis | Email" width="25px" fill="green" src="src/gmail-light.svg#gh-dark-mode-only">][Email]
-[<img align="left" alt="Marios Kerasiotis | Email" width="25px" fill="green" src="src/gmail-light.svg#gh-light-mode-only">][Email]
 
 
-
-
-
-
-[Email]:"mailto:marioskerasiotis@gmail.com"
-[Instagram]:"https://www.instagram.com/marios.ker/"
-[LinkedIn]:"https://www.linkedin.com/in/marioskerasiotis/"
+<a href="mailto:marioskerasiotis@gmail.com"><img align="left" alt="Marios Kerasiotis | Email" width="25px" src="https://user-images.githubusercontent.com/39958515/148821745-f1190cc2-bf39-4d4d-98af-af5f3551c8f2.png"> </a>
+<a href="https://www.linkedin.com/in/marioskerasiotis/"><img align="left" alt="Marios Kerasiotis | LinkedIn" width="25px" src="https://user-images.githubusercontent.com/39958515/148821711-f2bca847-0500-46ba-a4e4-01f581d4fc23.png"> </a>
+<a href="https://www.instagram.com/marios.ker/"><img align="left" alt="Marios Kerasiotis | Instagram" width="25px" src="https://user-images.githubusercontent.com/39958515/148823158-9c49ad1a-5f23-4e02-b111-5bcaab566297.png"> </a>
+<br/><br/>
+<b>:chart_with_upwards_trend: Some stats about me:</b><br/>
+![My stats](https://github-readme-stats.vercel.app/api?username=mariosker&count_private=true&show_icons=true&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosker&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosker&hide=html&layout=compact&theme=dark&bg_color=22272e&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

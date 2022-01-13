@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p>My name is Marios Kerasiotis and I am a electrical and computer engineering student. Currently I live in <img src="src/greece.png" width="14px"> Athens, Greece.</p>
+<p>My name is Marios Kerasiotis and I am an undergraduate electrical and computer engineering student @ National Technical University of Athens. Currently I live in <img src="src/greece.png" width="14px"> Athens, Greece.</p>
 
 
 <b>🌱 Interests:</b>

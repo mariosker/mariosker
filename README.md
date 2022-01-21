@@ -9,7 +9,7 @@ I’m currently learning about a software engineering, system design and devOps.
 <b>📫 How to reach me:</b><br/>
 
 
-<a href="mailto:marioskerasiotis@gmail.com"><img align="left" alt="Marios Kerasiotis | Email" width="25px" src="https://user-images.githubusercontent.com/39958515/148821745-f1190cc2-bf39-4d4d-98af-af5f3551c8f2.png"> </a>
+<a href="mailto:marioskerasiotis+github@gmail.com"><img align="left" alt="Marios Kerasiotis | Email" width="25px" src="https://user-images.githubusercontent.com/39958515/148821745-f1190cc2-bf39-4d4d-98af-af5f3551c8f2.png"> </a>
 <a href="https://www.linkedin.com/in/marioskerasiotis/"><img align="left" alt="Marios Kerasiotis | LinkedIn" width="25px" src="https://user-images.githubusercontent.com/39958515/148821711-f2bca847-0500-46ba-a4e4-01f581d4fc23.png"> </a>
 <a href="https://www.instagram.com/marios.ker/"><img align="left" alt="Marios Kerasiotis | Instagram" width="25px" src="https://user-images.githubusercontent.com/39958515/148823158-9c49ad1a-5f23-4e02-b111-5bcaab566297.png"> </a>
 <br/><br/>

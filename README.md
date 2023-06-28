@@ -4,7 +4,7 @@
 
 <b>🌱 Interests:</b>
 
-I’m currently learning about a software engineering, system design and devOps. Also I interest myself with distributed systems and blockchain. I'm also learning about design patterns and I'm reading head first design patterns.
+I’m currently writing my diploma thesis and building some neural networks. Also I am learning about a software engineering, system design and design patterns.
 
 <b>📫 How to reach me:</b><br/>
 
